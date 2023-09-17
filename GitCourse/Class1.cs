@@ -8,7 +8,7 @@ namespace GitCourse
 {
     internal class Class1
     {
-
+        public int a;
 
     }
 }
