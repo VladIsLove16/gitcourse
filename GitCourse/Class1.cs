@@ -9,5 +9,6 @@ namespace GitCourse
     internal class Class1
     {
 
+
     }
 }
